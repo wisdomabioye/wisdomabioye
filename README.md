@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and blockchain technology
 - 🌱 I’m currently learning Golang and Rust
 - 💞️ I’m looking to collaborate on blockchain project (Solidity, web3 integration), backend development and challenging development
-- 📫 How to reach me https://abkabioye.com
+- 📫 How to reach me https://abkabioye.me
 
 <!---
 wisdomabioye/wisdomabioye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
