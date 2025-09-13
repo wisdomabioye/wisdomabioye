@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @wisdomabioye
-- 󠁻{} I love coding in JavaScript, Typescript (+NodeJS), Rust && Python.
-- 👀 I’m interested in software development and blockchain technology
-- 🌱 I’m currently learning Golang and Rust
-- 💞️ I’m looking to collaborate on blockchain project (Solidity, web3 integration), backend development and challenging development
-- 📫 Reach me: wisdomabioye@gmail.com
+👋 Hi, I’m Wisdom
 
-<!---
-wisdomabioye/wisdomabioye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack Developer | TypeScript • FastAPI • Docker • Rust • Blockchain
+
+I specialize in building scalable applications with strong integrations between TypeScript runtimes, Python backends (FastAPI), and containerized deployments. Most of my work is in private repositories for clients, but here’s a snapshot of my expertise and sample projects.
+
+⸻
+
+🔧 Tech Stack
+	•	Languages: TypeScript, JavaScript, Python, Rust
+	•	Backend: FastAPI, Express.js, Node.js
+	•	Frontend: Next.js, React, TailwindCSS (shadcn)
+	•	Databases: MongoDB (Mongoose), PostgreSQL, Redis
+	•	DevOps & Infra: Docker, Docker Compose, GitHub Actions CI/CD, Trivy security scans
+	•	AI/Agents: LangChain.js, LlamaIndex TS, OpenAI SDK
+	•	Blockchain: Bitcoin (bitcoinjs-lib, Taproot), Ordinals, NFT tooling
+
+
+ Reach me here: wisdomabioye@gmail.com
