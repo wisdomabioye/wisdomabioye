@@ -1,6 +1,6 @@
 👋 Hi, I’m Wisdom
 
-Full-stack Developer | TypeScript • FastAPI • Docker • Rust • Blockchain
+Full-stack Developer | TypeScript • NodeJS • Solidity • Python • Rust • Blockchain
 
 I specialize in building scalable applications with strong integrations between TypeScript runtimes, Python backends (FastAPI), and containerized deployments. Most of my work is in private repositories for clients, but here’s a snapshot of my expertise and sample projects.
 
